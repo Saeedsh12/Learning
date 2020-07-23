@@ -9,6 +9,15 @@
   - Instantaneous Velocity Estimation for 360 • Perception with Multiple High-Quality Radars: An Experimental Validation Study [[Researchgate](https://www.researchgate.net/publication/342010637_Instantaneous_Velocity_Estimation_for_360_Perception_with_Multiple_High-Quality_Radars_An_Experimental_Validation_Study)]
 
   - How to Adapt Low Cost Perception Trackers to Automotive High Quality Doppler Radars?  [[Researchgate](https://www.researchgate.net/publication/342010810_How_to_Adapt_Low_Cost_Perception_Trackers_to_Automotive_High_Quality_Doppler_Radars)]
+  
+### Using Deep Learning for Target to Track Association - Automotive Radar
+- Implemented and writing in progress! Paper will be submitted in WCX 2021!
+- Improve the association function to find the best target to represent a track with the help of the Instantaneous Velocity Estimation method! 
+  
+### Resume - Job description automatic analysis! 
+- A product has been developed with the help of 4 recent graduated friends to help job seekers to evaluate their resume relative to a job description automatically. 
+Important skills and features from resume and job description are extracted based on a designed NLP model and a score will be assigned which shows the chance of applicant to get an interview for the desired position! Some useful feedbacks are provided to help the applicant to improve his/ her resume!
+The product will be available for free in September 2020! 
 ## 3D Shape generation
   - Reading stage 
 
