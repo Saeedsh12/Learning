@@ -17,11 +17,20 @@
 ### Radar
 - Using Machine Learning to Detect Ghost Images in Automotive Radar  [[arXiv](https://arxiv.org/pdf/2007.05280.pdf)][Done]
 
-### 2020
-
 ## Courses
 
-### Algorithm
+### Algorithm and Data Structure 
+- Data Structures and Algorithms- University of California San Diego [[coursera](https://www.coursera.org/specializations/data-structures-algorithms)][in progress]
+  - Greedy Algorithms [[coursera](https://www.coursera.org/learn/algorithmic-toolbox/lecture/diKe3/review-of-greedy-algorithms)]  
+    - Note:
+    
+    Greedy is an algorithmic paradigm that builds up a solution piece by piece, always choosing the next piece that offers the most obvious and immediate benefit. Greedy algorithms are used for optimization problems. An optimization problem can be solved using Greedy if the problem has the following property: At every step, we can make a choice that looks best at the moment, and we get the optimal solution of the complete problem.
+If a Greedy Algorithm can solve a problem, then it generally becomes the best method to solve that problem as the Greedy algorithms are in general more efficient than other techniques like Dynamic Programming. But Greedy algorithms cannot always be applied. For example, Fractional Knapsack problem (See this) can be solved using Greedy, but 0-1 Knapsack cannot be solved using Greedy. [[geeksforgeek](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/)]
+    
+    - Implementation: Fractional Knapsack Problem:
+    [[geeksforgeek](https://www.geeksforgeeks.org/fractional-knapsack-problem/)]
+    
+    
 ### Machine Learning 
 
 # Programming
