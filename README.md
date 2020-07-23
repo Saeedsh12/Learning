@@ -12,7 +12,7 @@
 # Must read papers
 ## Autonomous Driving
 ### Radar
-- Using Machine Learning to Detect Ghost Images in Automotive Radar  [[arXiv](https://arxiv.org/pdf/2007.05280.pdf)]
+- Using Machine Learning to Detect Ghost Images in Automotive Radar  [[arXiv](https://arxiv.org/pdf/2007.05280.pdf)][Done]
 
 ### 2020
 
@@ -37,7 +37,7 @@
 
 ## Data Science 
 
-## Instalation
+## Installation
 
 
 
