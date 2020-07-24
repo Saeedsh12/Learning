@@ -24,7 +24,10 @@ The product will be available for free in September 2020!
 # Must read papers
 ## Autonomous Driving
 ### Radar
-- Using Machine Learning to Detect Ghost Images in Automotive Radar  [[arXiv](https://arxiv.org/pdf/2007.05280.pdf)][Done]
+- Using Machine Learning to Detect Ghost Images in Automotive Radar  [[arXiv](https://arxiv.org/pdf/2007.05280.pdf)][-]
+
+### Deep Learning
+- DeepDA: LSTM-based Deep Data AssociationnNetwork for Multi-Targets Tracking in Clutter [[arXiv](https://arxiv.org/ftp/arxiv/papers/1907/1907.09915.pdf)][-]
 
 # Courses
 
