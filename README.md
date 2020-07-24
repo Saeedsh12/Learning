@@ -28,6 +28,7 @@ The product will be available for free in September 2020!
 
 ### Deep Learning
 - DeepDA: LSTM-based Deep Data AssociationnNetwork for Multi-Targets Tracking in Clutter [[arXiv](https://arxiv.org/ftp/arxiv/papers/1907/1907.09915.pdf)][-]
+- CNN based Road User Detection using the 3D Radar Cube [[Researchgate](https://www.researchgate.net/publication/338664323_CNN_based_Road_User_Detection_using_the_3D_Radar_Cube)][-]
 
 # Reading - Blogs
 ## Machine Learning
