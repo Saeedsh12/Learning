@@ -34,6 +34,25 @@ The product will be available for free in September 2020!
 - Rules of Machine Learning: Best Practices for ML Engineering [[Google](https://developers.google.com/machine-learning/guides/rules-of-ml)][-]
 
 # Courses
+  
+## Machine and Deep Learning 
+- MIT Introduction to Deep Learning | 6.S191 [[Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)][in progress] 
+- Deep Unsupervised Learning Spring 2020 [[UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home)][-]
+- Deep Reinforcement Learning [[UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)][-]
+- Full Stack Deep Learning  [[UC Berkeley](https://course.fullstackdeeplearning.com/)][in progress]
+    -  Formulating the problem and estimating project cost
+    -  Finding, cleaning, labeling, and augmenting data
+    -  Picking the right framework and compute infrastructure
+    -  Troubleshooting training and ensuring reproducibility
+    -  Deploying the model at scale
+- Luis Serrano: Machine learning made easy[[Youtube](https://www.youtube.com/c/LuisSerrano/playlists  )][in progress] 
+
+## SLAM
+- CS 287: Advanced Robotics, Fall 2019 [[UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)][-]
+- Cyrill Stachniss:
+  - SLAM-Course: [[Youtube](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)][in progress]
+  - Mobile Sensing and Robotics Course 1: [[Youtube](https://www.youtube.com/watch?v=OSsQX-dMwco&list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v)][-]
+  - Mobile Sensing and Robotics Course 2: [[Youtube](https://www.youtube.com/watch?v=4QG0y0pIOBE&list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)][-]
 
 ## Algorithm and Data Structure 
 ### Data Structures and Algorithms- University of California San Diego [[coursera](https://www.coursera.org/specializations/data-structures-algorithms)][in progress]
@@ -56,26 +75,6 @@ The product will be available for free in September 2020!
     - Selection Sort:
     - Merge Sort:
     - Quick Sort:
-    
-    
-## Machine and Deep Learning 
-- MIT Introduction to Deep Learning | 6.S191 [[Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)][in progress] 
-- Deep Unsupervised Learning Spring 2020 [[UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home)][-]
-- Deep Reinforcement Learning [[UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)][-]
-- Full Stack Deep Learning  [[UC Berkeley](https://course.fullstackdeeplearning.com/)][in progress]
-    -  Formulating the problem and estimating project cost
-    -  Finding, cleaning, labeling, and augmenting data
-    -  Picking the right framework and compute infrastructure
-    -  Troubleshooting training and ensuring reproducibility
-    -  Deploying the model at scale
-- Luis Serrano: Machine learning made easy[[Youtube](https://www.youtube.com/c/LuisSerrano/playlists  )][in progress] 
-
-## SLAM
-- CS 287: Advanced Robotics, Fall 2019 [[UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)][-]
-- Cyrill Stachniss:
-  - SLAM-Course: [[Youtube](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)][in progress]
-  - Mobile Sensing and Robotics Course 1: [[Youtube](https://www.youtube.com/watch?v=OSsQX-dMwco&list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v)][-]
-  - Mobile Sensing and Robotics Course 2: [[Youtube](https://www.youtube.com/watch?v=4QG0y0pIOBE&list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)][-]
 
 # Development and Programming
 
