@@ -29,6 +29,10 @@ The product will be available for free in September 2020!
 ### Deep Learning
 - DeepDA: LSTM-based Deep Data AssociationnNetwork for Multi-Targets Tracking in Clutter [[arXiv](https://arxiv.org/ftp/arxiv/papers/1907/1907.09915.pdf)][-]
 
+# Reading - Blogs
+## Machine Learning
+- Rules of Machine Learning: Best Practices for ML Engineering [[Google](https://developers.google.com/machine-learning/guides/rules-of-ml)][-]
+
 # Courses
 
 ## Algorithm and Data Structure 
@@ -42,10 +46,27 @@ The product will be available for free in September 2020!
     [[geeksforgeek](https://www.geeksforgeeks.org/fractional-knapsack-problem/)]
     
     
-### Machine Learning 
+## Machine and Deep Learning 
+- Deep Unsupervised Learning Spring 2020 [[UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home)][-]
+- Full Stack Deep Learning  [[UC Berkeley](https://course.fullstackdeeplearning.com/)][in progress]
+    -  Formulating the problem and estimating project cost
+    -  Finding, cleaning, labeling, and augmenting data
+    -  Picking the right framework and compute infrastructure
+    -  Troubleshooting training and ensuring reproducibility
+    -  Deploying the model at scale
+- Luis Serrano: Machine learning made easy[[Youtube](https://www.youtube.com/c/LuisSerrano/playlists  )][in progress] 
 
-# Programming
+## SLAM
+- CS 287: Advanced Robotics, Fall 2019 [[UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)][-]
+
+# Development and Programming
+
 ## Python
+
+## Machine and Deep Learning
+- Developer tools for machine learning [[W&B](https://www.wandb.com/)]
+  - "W&B is a key piece of our fast-paced, cutting-edge, large-scale research workflow: great flexibility, performance, and user experience."
+
 
 ## TensorFlow
 
@@ -54,9 +75,7 @@ The product will be available for free in September 2020!
 
 ## Algorithm and Data Structure 
 
-## Machine Learning Algorithm
 
-## Deep Learning 
 
 ## Data Science 
 
