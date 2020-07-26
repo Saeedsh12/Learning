@@ -72,6 +72,8 @@ class KnapsackPackage(object):
     def __lt__(self, other): 
         return self.cost < other.cost 
 ```
+- __lt__(self, other) Defines the behaviour of the less-than operator <
+
 - You then create a function to perform the algorithm Greedy Three.
 
 ```python
