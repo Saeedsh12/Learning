@@ -81,6 +81,10 @@ The product will be available for free in September 2020!
 
 ## Python
 
+### Github
+[[30Days Python](https://github.com/Asabeneh/30-Days-Of-Python)]
+
+
 ## Machine and Deep Learning
 - Developer tools for machine learning [[W&B](https://www.wandb.com/)]
   - "W&B is a key piece of our fast-paced, cutting-edge, large-scale research workflow: great flexibility, performance, and user experience."
