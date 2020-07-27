@@ -89,6 +89,7 @@ The product will be available for free in September 2020!
 - Developer tools for machine learning [[W&B](https://www.wandb.com/)]
   - "W&B is a key piece of our fast-paced, cutting-edge, large-scale research workflow: great flexibility, performance, and user experience."
 
+- Made With ML Topics: A collection of the best ML tutorials, toolkits and research organized by topic [[made with ML](https://madewithml.com/topics/)] 
 
 ## TensorFlow
 
