@@ -80,9 +80,10 @@ The product will be available for free in September 2020!
 # Development and Programming
 
 ## Python
+- Object oriented programming: [[Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming)]
 
 ### Github
-[[30Days Python](https://github.com/Asabeneh/30-Days-Of-Python)]
+- [[30Days Python](https://github.com/Asabeneh/30-Days-Of-Python)]
 
 
 ## Machine and Deep Learning
