@@ -81,11 +81,12 @@ The product will be available for free in September 2020!
 
 ## Python
 - Object oriented programming: [[Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming)]
+- [[Youtube - 100Days Python](https://www.youtube.com/watch?v=fSi5uvXqT4s&list=PLQh6rb1mrE_Ywz-LGD9DQb1_ofqn8X05U)]
+
 
 ### Github
 - [[30Days Python](https://github.com/Asabeneh/30-Days-Of-Python)]
 
-- [[Youtube - 100Days Python](https://www.youtube.com/watch?v=fSi5uvXqT4s&list=PLQh6rb1mrE_Ywz-LGD9DQb1_ofqn8X05U)]
 
 
 ## Machine and Deep Learning
