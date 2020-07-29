@@ -85,6 +85,8 @@ The product will be available for free in September 2020!
 ### Github
 - [[30Days Python](https://github.com/Asabeneh/30-Days-Of-Python)]
 
+- [[Youtube - 100Days Python](https://www.youtube.com/watch?v=fSi5uvXqT4s&list=PLQh6rb1mrE_Ywz-LGD9DQb1_ofqn8X05U)]
+
 
 ## Machine and Deep Learning
 - Developer tools for machine learning [[W&B](https://www.wandb.com/)]
