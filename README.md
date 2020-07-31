@@ -10,6 +10,8 @@
 
   - How to Adapt Low Cost Perception Trackers to Automotive High Quality Doppler Radars?  [[Researchgate](https://www.researchgate.net/publication/342010810_How_to_Adapt_Low_Cost_Perception_Trackers_to_Automotive_High_Quality_Doppler_Radars)]
   
+
+  
 ### Using Deep Learning for Target to Track Association - Automotive Radar
 - Implemented and writing in progress! Paper will be submitted in WCX 2021!
 - Improve the association function to find the best target to represent a track with the help of the Instantaneous Velocity Estimation method! 
@@ -26,9 +28,14 @@ The product will be available for free in September 2020!
 ### Radar
 - Using Machine Learning to Detect Ghost Images in Automotive Radar  [[arXiv](https://arxiv.org/pdf/2007.05280.pdf)][-]
 
+- Extended Object Tracking Using Hierarchical Truncation Measurement Model with Automotive Radar  [[Researchgate](https://www.researchgate.net/publication/340578943_Extended_Object_Tracking_Using_Hierarchical_Truncation_Measurement_Model_with_Automotive_Radar)][-]
+
 ### Deep Learning
 - DeepDA: LSTM-based Deep Data AssociationnNetwork for Multi-Targets Tracking in Clutter [[arXiv](https://arxiv.org/ftp/arxiv/papers/1907/1907.09915.pdf)][-]
 - CNN based Road User Detection using the 3D Radar Cube [[Researchgate](https://www.researchgate.net/publication/338664323_CNN_based_Road_User_Detection_using_the_3D_Radar_Cube)][-]
+
+- RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects  - [[Researchgate](https://www.researchgate.net/publication/343279449_RadarNet_Exploiting_Radar_for_Robust_Perception_of_Dynamic_Objects)]
+
 
 # Reading - Blogs
 ## Machine Learning
