@@ -95,6 +95,14 @@ The product will be available for free in September 2020!
 
 - Made With ML Topics: A collection of the best ML tutorials, toolkits and research organized by topic [[made with ML](https://madewithml.com/topics/)] 
 
+## Data Science 
+
+- [[The Data Science Design Manual](https://link.springer.com/book/10.1007%2F978-3-319-55444-0)]
+
+- [[Principles of Data Mining](https://link.springer.com/book/10.1007%2F978-1-4471-7307-6)]
+
+- [[Introduction to Statistics and Data Analysis](https://link.springer.com/book/10.1007%2F978-3-319-46162-5)]
+
 ## TensorFlow
 
 ## Pytorch
@@ -103,8 +111,6 @@ The product will be available for free in September 2020!
 ## Algorithm and Data Structure 
 
 
-
-## Data Science 
 
 ## Installation
 
