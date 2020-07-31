@@ -94,6 +94,8 @@ The product will be available for free in September 2020!
 ### Github
 - [[30Days Python](https://github.com/Asabeneh/30-Days-Of-Python)]
 
+- [[100 Days ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)]
+
 
 
 ## Machine and Deep Learning
